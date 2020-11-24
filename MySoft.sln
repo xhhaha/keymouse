@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MySoft", "MySoft\MySoft.csproj", "{97EDAE0D-9D58-41EF-B597-635E7FB6A077}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "KeyClickEvent4", "KeyClickEvent\KeyClickEvent4.csproj", "{5C7323F2-79DE-44AF-88F0-E8E91DDDD35F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{97EDAE0D-9D58-41EF-B597-635E7FB6A077}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{97EDAE0D-9D58-41EF-B597-635E7FB6A077}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{97EDAE0D-9D58-41EF-B597-635E7FB6A077}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{97EDAE0D-9D58-41EF-B597-635E7FB6A077}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5C7323F2-79DE-44AF-88F0-E8E91DDDD35F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5C7323F2-79DE-44AF-88F0-E8E91DDDD35F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5C7323F2-79DE-44AF-88F0-E8E91DDDD35F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5C7323F2-79DE-44AF-88F0-E8E91DDDD35F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
